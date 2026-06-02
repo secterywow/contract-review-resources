@@ -1,3 +1,4 @@
+Website: https://secterywow.github.io/contract-review-resources/
 # Contract Review Resources
 
 A simple collection of resources for reading, reviewing, and comparing contracts in plain language.
